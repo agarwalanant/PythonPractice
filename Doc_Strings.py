@@ -17,3 +17,6 @@ class song:
         self.artist = artist
         self.duration = duration
 
+
+raw_string = r"hello \n byr \t hello"
+print(raw_string)
